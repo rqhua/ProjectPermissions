@@ -39,7 +39,7 @@ but it's required to call a custom request (for the custom request you must call
 
 Instead, you can left null **HashMap\<String, String> tvStrings** and the system get the default value. 
 
-## DO NOT FORGET TO INCLUDE THE PERMISSION THAT YOU WANT TO REQUEST, IN YOUR MANIFEST FILE!!
+## DO NOT FORGET TO INCLUDE THE PERMISSIONS THAT YOU WANT TO REQUEST, IN YOUR MANIFEST FILE!!
 
 
 
