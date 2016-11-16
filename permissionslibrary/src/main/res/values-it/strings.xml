@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">PermissionsLibrary</string>
+
+
+    <!--***********STRINGS FOR PERMISSIONS***********-->
+
+    <!--  CALENDAR -->
+    <string name="title_permission_calendar">Vuoi consentire l\'accesso al calendario?</string>
+    <string name="text_permission_calendar">Questo accesso è necessario per il corretto funzionamento dell\'app</string>
+    <string name="title_permission_calendar_dialog_settings">Vuoi consentire l\'accesso al calendario?</string>
+    <string name="text_permission_calendar_dialog_settings">Questo accesso è necessario per il corretto funzionamento dell\'app\n\nPer consentire il permesso, clicca su "IMPOSTAZIONI" in basso e attiva CALENDARIO nel menu Autorizzazioni</string>
+
+    <!--  CONTACTS -->
+    <string name="title_permission_contacts">Vuoi consentire l\'accesso alla rubrica?</string>
+    <string name="text_permission_contacts">Questo accesso è necessario per il corretto funzionamento dell\'app</string>
+    <string name="title_permission_contacts_dialog_settings">Vuoi consentire l\'accesso alla rubrica?</string>
+    <string name="text_permission_contacts_dialog_settings">Questo accesso è necessario per il corretto funzionamento dell\'app\n\nPer consentire il permesso, clicca su "IMPOSTAZIONI" in basso e attiva CONTATTI nel menu Autorizzazioni</string>
+
+    <!--  PHONE -->
+    <string name="title_permission_phone">Vuoi consentire l\'accesso alle chiamate?</string>
+    <string name="text_permission_phone">Questo accesso è necessario per il corretto funzionamento dell\'app</string>
+    <string name="title_permission_phone_dialog_settings">Vuoi consentire l\'accesso alle chiamate?</string>
+    <string name="text_permission_phone_dialog_settings">Questo accesso è necessario per il corretto funzionamento dell\'app\n\nPer consentire il permesso, clicca su "IMPOSTAZIONI" in basso e attiva TELEFONO nel menu Autorizzazioni</string>
+
+    <!-- GPS -->
+    <string name="title_permission_gps">Vuoi consentire l\'accesso alle posizione del dispositivo?</string>
+    <string name="text_permission_gps">Questo accesso è necessario per il corretto funzionamento dell\'app</string>
+    <string name="title_permission_gps_dialog_settings">Vuoi consentire l\'accesso alle posizione del dispositivo?</string>
+    <string name="text_permission_gps_dialog_settings">Questo accesso è necessario per il corretto funzionamento dell\'app\n\nPer consentire il permesso, clicca su "IMPOSTAZIONI" in basso e attiva POSIZIONE nel menu Autorizzazioni</string>
+
+    <!-- WRITE STORAGE -->
+    <string name="title_permission_storage">Vuoi consentire l\'accesso alla memoria del dispositivo?</string>
+    <string name="text_permission_storage">Questo accesso è necessario per il corretto funzionamento dell\'app</string>
+    <string name="title_permission_storage_dialog_settings">Vuoi consentire l\'accesso alla memoria del dispositivo?</string>
+    <string name="text_permission_storage_dialog_settings">Questo accesso è necessario per il corretto funzionamento dell\'app\n\nPer consentire il permesso, clicca su "IMPOSTAZIONI" in basso e attiva MEMORIA nel menu Autorizzazioni</string>
+
+    <!-- CAMERA -->
+    <string name="title_permission_camera">Vuoi consentire l\'accesso alla fotocamera del dispositivo?</string>
+    <string name="text_permission_camera">Questo accesso è necessario per il corretto funzionamento dell\'app</string>
+    <string name="title_permission_camera_dialog_settings">Vuoi consentire l\'accesso alla fotocamera del dispositivo?</string>
+    <string name="text_permission_camera_dialog_settings">Questo accesso è necessario per il corretto funzionamento dell\'app\n\nPer consentire il permesso, clicca su "IMPOSTAZIONI" in basso e attiva FOTOCAMERA nel menu Autorizzazioni</string>
+
+    <!-- ACCOUNT -->
+    <string name="title_permission_account">Vuoi consentire l\'accesso all\'account del dispositivo?</string>
+    <string name="text_permission_account">Questo accesso è necessario per il corretto funzionamento dell\'app</string>
+    <string name="title_permission_account_dialog_settings">Vuoi consentire l\'accesso all\'account del dispositivo?</string>
+    <string name="text_permission_account_dialog_settings">Questo accesso è necessario per il corretto funzionamento dell\'app\n\nPer consentire il permesso, clicca su "IMPOSTAZIONI" in basso e attiva CONTATTI nel menu Autorizzazioni</string>
+
+    <!-- SMS -->
+    <string name="title_permission_sms">Vuoi consentire l\'accesso agli SMS del dispositivo?</string>
+    <string name="text_permission_sms">Questo accesso è necessario per il corretto funzionamento dell\'app</string>
+    <string name="title_permission_sms_dialog_settings">Vuoi consentire l\'accesso agli SMS del dispositivo?</string>
+    <string name="text_permission_sms_dialog_settings">Questo accesso è necessario per il corretto funzionamento dell\'app\n\nPer consentire il permesso, clicca su "IMPOSTAZIONI" in basso e attiva le voci relative agli SMS nel menu Autorizzazioni</string>
+
+    <!-- CUSTOM -->
+    <string name="title_permission_custom">In seguito ti verrà mostrata una richiesta per l\'accesso ad una serie di permessi necessari al funzionamento dell\'app</string>
+    <string name="text_permission_custom">Questa richiesta è necessaria per il corretto funzionamento dell\'app</string>
+    <string name="title_permission_custom_dialog_settings">In seguito ti verrà mostrata una richiesta per l\'accesso ad una serie di permessi necessari al funzionamento dell\'app</string>
+    <string name="text_permission_custom_dialog_settings">Questo accesso è necessario per il corretto funzionamento dell\'app\n\nPer consentire i permessi, clicca su "IMPOSTAZIONI" in basso e attiva le voci relative nel menu Autorizzazioni</string>
+
+    <!--***********END***********-->
+
+
+
+
+
+    <string name="msg_ko_perms">Senza questo permesso non è possibile utilizzare questa funzionalità!</string>
+    <string name="msg_ko_custom_perms">Senza questi permessi non è possibile utilizzare queste funzionalità!</string>
+
+    <string name="btn_allow">Consenti</string>
+    <string name="btn_deny">Nega</string>
+
+    <string name="btn_allow_settings">IMPOSTAZIONI</string>
+    <string name="btn_deny_settings">NON ORA</string>
+
+</resources>

@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">PermissionsLibrary</string>
+
+
+    <!--***********STRINGS FOR PERMISSIONS***********-->
+
+    <!--  CALENDAR -->
+    <string name="title_permission_calendar">Do you want to grant access to your calendar?</string>
+    <string name="text_permission_calendar">This access is necessary for the correct execution of the app</string>
+    <string name="title_permission_calendar_dialog_settings">Vuoi consentire l\'accesso al calendar?</string>
+    <string name="text_permission_calendar_dialog_settings">This access is necessary for the correct execution of the app\n\nTo allow permission, click on "SETTINGS" then click on "PERMISSIONS"</string>
+
+    <!--  CONTACTS -->
+    <string name="title_permission_contacts">Do you want to grant access to your contacts?</string>
+    <string name="text_permission_contacts">This access is necessary for the correct execution of the app</string>
+    <string name="title_permission_contacts_dialog_settings">Do you want to grant access to your contacts?</string>
+    <string name="text_permission_contacts_dialog_settings">This access is necessary for the correct execution of the app\n\nTo allow permission, click on "SETTINGS" then click on "PERMISSIONS"</string>
+
+    <!--  PHONE -->
+    <string name="title_permission_phone">Do you want to grant access to your call?</string>
+    <string name="text_permission_phone">This access is necessary for the correct execution of the app</string>
+    <string name="title_permission_phone_dialog_settings">Do you want to grant access to your call?</string>
+    <string name="text_permission_phone_dialog_settings">This access is necessary for the correct execution of the app\n\nTo allow permission, click on "SETTINGS" then click on "PERMISSIONS"</string>
+
+    <!-- GPS -->
+    <string name="title_permission_gps">Do you want to grant access to your position?</string>
+    <string name="text_permission_gps">This access is necessary for the correct execution of the app</string>
+    <string name="title_permission_gps_dialog_settings">Do you want to grant access to your position?</string>
+    <string name="text_permission_gps_dialog_settings">This access is necessary for the correct execution of the app\n\nTo allow permission, click on "SETTINGS" then click on "PERMISSIONS"</string>
+
+    <!-- WRITE STORAGE -->
+    <string name="title_permission_storage">Do you want to grant access to your storage?</string>
+    <string name="text_permission_storage">This access is necessary for the correct execution of the app</string>
+    <string name="title_permission_storage_dialog_settings">Do you want to grant access to your storage?</string>
+    <string name="text_permission_storage_dialog_settings">This access is necessary for the correct execution of the app\n\nTo allow permission, click on "SETTINGS" then click on "PERMISSIONS"</string>
+
+    <!-- CAMERA -->
+    <string name="title_permission_camera">Do you want to grant access to your camera?</string>
+    <string name="text_permission_camera">This access is necessary for the correct execution of the app</string>
+    <string name="title_permission_camera_dialog_settings">Do you want to grant access to your camera?</string>
+    <string name="text_permission_camera_dialog_settings">This access is necessary for the correct execution of the app\n\nTo allow permission, click on "SETTINGS" then click on "PERMISSIONS"</string>
+
+    <!-- ACCOUNT -->
+    <string name="title_permission_account">Do you want to grant access to your account?</string>
+    <string name="text_permission_account">This access is necessary for the correct execution of the app</string>
+    <string name="title_permission_account_dialog_settings">Do you want to grant access to your account?</string>
+    <string name="text_permission_account_dialog_settings">This access is necessary for the correct execution of the app\n\nTo allow permission, click on "SETTINGS" then click on "PERMISSIONS"</string>
+
+    <!-- SMS -->
+    <string name="title_permission_sms">Do you want to grant access to SMS?</string>
+    <string name="text_permission_sms">This access is necessary for the correct execution of the app</string>
+    <string name="title_permission_sms_dialog_settings">Do you want to grant access to SMS?</string>
+    <string name="text_permission_sms_dialog_settings">This access is necessary for the correct execution of the app\n\nTo allow permission, click "SETTINGS" then click on "PERMISSIONS"</string>
+
+    <!-- CUSTOM -->
+    <string name="title_permission_custom">Later it will show you a request for access to a lot of permits required for the correct execution of the app</string>
+    <string name="text_permission_custom">This access is necessary for the correct execution of the app</string>
+    <string name="title_permission_custom_dialog_settings">Later it will show you a request for access to a lot of permits required for the correct execution of the app</string>
+    <string name="text_permission_custom_dialog_settings">This access is necessary for the correct execution of the app\n\nTo allow permission, click "SETTINGS" then click on "PERMISSIONS"</string>
+
+    <!--***********END***********-->
+
+
+
+
+    <string name="msg_ko_perms">Without this permission you can not use this feature!</string>
+    <string name="msg_ko_custom_perms">Without these permissions it is not possible to use these features!</string>
+
+
+    <string name="btn_allow">Allow</string>
+    <string name="btn_deny">Deny</string>
+
+    <string name="btn_allow_settings">SETTINGS</string>
+    <string name="btn_deny_settings">NOT NOW</string>
+
+
+</resources>
