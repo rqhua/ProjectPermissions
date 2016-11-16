@@ -182,3 +182,7 @@ CheckRuntimePermissions checkRuntimePermissions = new CheckRuntimePermissions();
 
     }
 ```
+
+<br />
+#DEVELOPED BY
+* **alesms** - vstrom79@gmail.com
