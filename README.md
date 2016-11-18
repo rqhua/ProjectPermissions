@@ -1,6 +1,27 @@
 # ProjectPermissions library
 ProjectPermissions is an Android library that manage simply the most common runtime permissions<br />
-* If you want to know which permissions are in, read the **CheckRuntimePermissions** class.
+* Permissions managed in this library are
+ * CONTACTS
+    * **android.permission.WRITE_CONTACTS**
+    * **android.permission.READ_CONTACTS**
+ * CALENDAR   
+    * **android.permission.WRITE_CALENDAR**
+    * **android.permission.READ_CALENDAR**
+ * PHONECALL   
+    * **android.permission.CALL_PHONE**
+    * **android.permission.READ_PHONE_STATE**
+ * GPS
+    * **android.permission.ACCESS_FINE_LOCATION**
+    * **android.permission.ACCESS_COARSE_LOCATION**
+ * WRITESTORAGE
+    * **android.permission.READ_EXTERNAL_STORAGE**
+    * **android.permission.WRITE_EXTERNAL_STORAGE**
+ * **android.permission.CAMERA**
+ * **android.permission.GET_ACCOUNTS**
+ * **android.permission.SEND_SMS**
+ * **android.permission.RECEIVE_SMS**
+ * **android.permission.READ_SMS** 
+ 
 
 # How it work
 This project is on jcenter, to use it<br />
