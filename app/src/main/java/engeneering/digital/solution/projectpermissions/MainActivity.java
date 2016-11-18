@@ -58,7 +58,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             permissions.add("android.permission.CAMERA");
             permissions.add("android.permission.GET_ACCOUNTS");
 
-            //THIS VALUES IS OPTIONAL - IF YOU DON'T SET, THE APP GET THE DEFAULT VALUE
+
+            //THESE VALUES IS OPTIONAL - IF YOU DON'T SET, THE APP GET THE DEFAULT VALUE
             texts.put(Constant.TITLE_PERMISSION, "Title something");
             texts.put(Constant.TEXT_PERMISSION, "Text something");
             texts.put(Constant.TITLE_PERMISSION_DIALOG_SETTING, "Title something for settings");
