@@ -3,9 +3,8 @@ ProjectPermissions is an Android library that manage simply the most common runt
 * If you want to know which permissions are in, read the **CheckRuntimePermissions** class.
 
 # How it work
-This library handles permission's runtime requests.
-To use it, simply import the entire library project (or create a aar and import).
-You can use the library in the Activity and Fragment;
+This project is on jcenter, to use it<br />
+simply import **compile 'engeneering.digital.solution:permissionslibrary:1.0'** in your **build.gradle** file
 
 
 ##Method and its parameters
