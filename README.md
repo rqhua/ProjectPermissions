@@ -186,7 +186,7 @@ CheckRuntimePermissions checkRuntimePermissions = new CheckRuntimePermissions();
         boolean result;
         switch (requestCode) {
 
-            //YOU CAN GET THE DEDICATED REQUEST CODE FROM THEL LIBRARY CLASS Constant 
+            //YOU CAN GET THE DEDICATED REQUEST CODE FROM THE LIBRARY CLASS Constant 
             case Constant.REQUEST_CODE_ASK_SINGLE_PERMISSION_CAMERA:
                 result = checkRuntimePermissions.permissionResults(requestCode, permissions, grantResults);
                 if (result) {
