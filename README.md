@@ -23,7 +23,7 @@ ProjectPermissions is an Android library that manage simply the most common runt
  * **android.permission.READ_SMS** 
  
 ## Gradle usage
-* This project is on jcenter, to use it<br />
+* ``` compile 'engeneering.digital.solution:permissionslibrary:1.0' ```<br />
 * Available from jcenter
 
 ##Method and its parameters
