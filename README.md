@@ -33,7 +33,7 @@ You have to declare library object in this way:<br />
 then, call this method to request a permission
 * checkRuntimePermissions.setPermissions(....)
   * You can call a **standard** request (e.g. CALENDAR permission or CAMERA permission etc.)<br />
-  * You can create a **custom** request, which means that you can ask more request at the same time (e.g. CAMERA and GET_ACCOUNT)
+  * You can create a **custom** request, which means that you can ask more requests at the same time (e.g. CAMERA and GET_ACCOUNT)
 
 
 The necessary parameters are:<br />
@@ -88,7 +88,7 @@ private CheckRuntimePermissions checkRuntimePermissions = new CheckRuntimePermis
         boolean result;
         switch (requestCode) {
 
-            //YOU CAN GET THE DEDICATED REQUEST CODE FROM THEL LIBRARY CLASS Constant 
+            //YOU CAN GET THE DEDICATED REQUEST CODE FROM THE LIBRARY CLASS Constant 
             case Constant.REQUEST_CODE_ASK_MULTIPLE_PERMISSIONS_CALENDAR:
                 result = checkRuntimePermissions.permissionResults(requestCode, permissions, grantResults);
                 if (result) {
@@ -141,7 +141,7 @@ private CheckRuntimePermissions checkRuntimePermissions = new CheckRuntimePermis
         boolean result;
         switch (requestCode) {
 
-            //YOU CAN GET THE DEDICATED REQUEST CODE FROM THEL LIBRARY CLASS Constant 
+            //YOU CAN GET THE DEDICATED REQUEST CODE FROM THE LIBRARY CLASS Constant 
             case Constant.REQUEST_CODE_ASK_MULTIPLE_CUSTOM_PERMISSIONS:
                 result = checkRuntimePermissions.permissionResults(requestCode, permissions, grantResults);
                 if (result) {
@@ -161,7 +161,7 @@ private CheckRuntimePermissions checkRuntimePermissions = new CheckRuntimePermis
 ```
 CheckRuntimePermissions checkRuntimePermissions = new CheckRuntimePermissions();
 
-<br /><br />
+
 
 @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
